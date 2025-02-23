@@ -1,7 +1,7 @@
 # 🛡️ BLACK SPAMMER BD - [BSB]⚡💀  
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fblack.spammar.bd%2F&psig=AOvVaw08ov64ntd0Skp0HagYUJ-c&ust=1740365829983000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjy1Jvm2IsDFQAAAAAdAAAAABAE" alt="BLACK SPAMMER BD" width="300">
+  <img src="https://a.top4top.io/p_3159w8i098.jpg" width="300" height="" "="" onclick="location.href = 'https://t.me/Black_Spammer_Bd';">
 </p>  
 
 ---
