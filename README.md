@@ -1,70 +1,93 @@
-# 🛡️ BLACK SPAMMER BD - [BSB]⚡💀  
+# 🛡️ BLACK SPAMMER BD - [BSB] ⚡💀  
 
 <p align="center">
-  <img src="https://a.top4top.io/p_3159w8i098.jpg" width="300" height="" "="" onclick="location.href = 'https://t.me/Black_Spammer_Bd';">
+  <a href="https://facebook.com/groups/black.spammar.bd/">
+    <img src="https://a.top4top.io/p_3159w8i098.jpg" width="600">
+  </a>
 </p>  
 
 ---
 
-## 🔥 ABOUT BLACK SPAMMER BD  
-BLACK SPAMMER BD IS NOT JUST A TEAM — IT’S A MOVEMENT.  
-WE ARE AN ELITE GROUP OF CYBERSECURITY EXPERTS, ETHICAL HACKERS, AND TECH INNOVATORS COMMITTED TO CYBER DEFENSE, SECURITY RESEARCH, AND BUILDING NEXT-GEN CYBER TOOLS.  
+# 🔥 WHO WE ARE  
 
-💀 WE DON'T FOLLOW RULES. WE REDEFINE THEM.  
-🔥 WE DON'T COMPETE. WE DOMINATE.  
-🚀 WE DON'T LEARN. WE MASTER.  
-
----
-
-## ⚡ CORE COMPETENCIES  
-🔹 ADVANCED PENETRATION TESTING & EXPLOIT DEVELOPMENT  
-🔹 MACHINE LEARNING & AI-DRIVEN SECURITY FRAMEWORKS  
-🔹 OSINT (OPEN-SOURCE INTELLIGENCE) & WEB SCRAPING  
-🔹 AUTOMATED SECURITY & CYBER DEFENSE SYSTEMS  
-🔹 DEVELOPMENT IN PYTHON, C++, SQL, BASH, JAVASCRIPT  
-🔹 CYBER RESEARCH & INNOVATIVE TOOL CREATION  
+<div align="center">
+  <span style="font-size: 40px; font-weight: bold; color: #F44336;">BLACK SPAMMER BD</span>  
+  <p style="font-size: 28px; color: #4CAF50;">IS NOT JUST A TEAM — IT'S A MOVEMENT</p>  
+  <p style="font-size: 20px; color: #2196F3;">WE ARE THE ELITE OF CYBERSECURITY EXPERTS, ETHICAL HACKERS, AND TECH INNOVATORS, DRIVEN TO DOMINATE THE DIGITAL WORLD.</p>
+</div>  
 
 ---
 
-## 🚀 FLAGSHIP PROJECTS  
-💀 [MOST POWERFUL PHISHING TOOLS](https://github.com/BlackSpammerBd/MASTER_PHISH)  
-📡 [TERMUX VNC TOOLS](https://github.com/BlackSpammerBd/VNC)  
+# ⚡ CORE COMPETENCIES  
 
-📌 WE ARE ALWAYS DEVELOPING NEW PROJECTS. STAY CONNECTED FOR MORE POWERFUL SECURITY TOOLS!  
+<div align="center">
+  <p style="font-size: 30px; font-weight: bold; color: #4CAF50;">OUR EXPERTISE</p>  
+  <p style="font-size: 22px; color: #9E9E9E;">We don't just work in the field of cybersecurity; we REDEFINE IT with the following core competencies:</p>  
+</div>  
 
----
-
-## 🛠️ TECH STACK & ENVIRONMENT  
-✅ PROGRAMMING LANGUAGES → PYTHON, C++, JAVASCRIPT, SQL, BASH  
-✅ HACKING & SECURITY TOOLS → METASPLOIT, BURP SUITE, NMAP, SQLMAP  
-✅ MACHINE LEARNING & AI → AUTOMATED THREAT DETECTION, AI-POWERED SECURITY  
-✅ OSINT & INTELLIGENCE → DATA MINING, WEB SCRAPING, API INTEGRATION  
-✅ CLOUD & INFRASTRUCTURE → AWS, GOOGLE CLOUD, VIRTUALIZATION TECHNOLOGY  
-
----
-
-## 🎯 BLACK SPAMMER BD MISSION  
-💀 STRENGTH, DISCIPLINE, AND KNOWLEDGE DEFINE BLACK SPAMMER BD.  
-🚀 WE DON’T JUST PARTICIPATE IN CYBERSECURITY – WE SHAPE ITS FUTURE.  
-⚡ WE ARE HERE TO LEAD, INNOVATE, AND REMAIN UNSTOPPABLE IN THE CYBER WORLD.  
+- ✅ **Advanced Penetration Testing** & **Exploit Development**  
+- ✅ **Machine Learning & AI-Driven Security Frameworks**  
+- ✅ **OSINT (Open-Source Intelligence)** & **Web Scraping**  
+- ✅ **Automated Cyber Defense Systems**  
+- ✅ **Cybersecurity Research** & **Innovative Tool Creation**  
+- ✅ **Programming in Python, C++, SQL, Bash, JavaScript**
 
 ---
 
-## 🔗 CONNECT WITH BLACK SPAMMER BD  
-📢 FOLLOW US FOR EXCLUSIVE SECURITY RESEARCH & TOOLS  
+# 🚀 FLAGSHIP PROJECTS  
 
-[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/groups/black.spammar.bd/)  
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TEAM_BSB)  
+💀 **[MOST POWERFUL PHISHING TOOLS](https://github.com/BlackSpammerBd/MASTER_PHISH)**  
+📡 **[TERMUX VNC TOOLS](https://github.com/BlackSpammerBd/VNC)**  
 
----
-
-## 💡 WANT TO JOIN US?  
-✅ CONTRIBUTE TO OUR PROJECTS AND HELP US BUILD THE FUTURE OF CYBERSECURITY.  
-✅ REPORT ISSUES, SUGGEST FEATURES & SUBMIT PULL REQUESTS.  
-✅ COLLABORATE WITH US AND BECOME PART OF SOMETHING POWERFUL.  
-
-📩 FOR PARTNERSHIPS OR BUSINESS INQUIRIES, REACH OUT TO US.  
+<p style="font-size: 20px; text-align: center; color: #9E9E9E;">We are constantly working on powerful cybersecurity tools and research. Stay tuned for our upcoming innovations!</p>
 
 ---
 
-<h2 align="center">🔥 BLACK SPAMMER BD - POWER. DISCIPLINE. DOMINANCE. 💀💻</h2>
+# 🛠️ TECH STACK & ENVIRONMENT  
+
+<div align="center">
+  <p style="font-size: 30px; font-weight: bold; color: #F44336;">OUR TECHNOLOGY STACK</p>  
+  <p style="font-size: 20px; color: #9E9E9E;">We leverage cutting-edge technologies to build robust cybersecurity solutions:</p>  
+</div>  
+
+- 🟩 **Programming Languages** → Python, C++, JavaScript, SQL, Bash  
+- 🟥 **Hacking & Security Tools** → Metasploit, Burp Suite, Nmap, SQLmap  
+- 🟦 **AI & Machine Learning** → Automated Threat Detection, AI-Powered Security  
+- 🟪 **OSINT & Intelligence** → Data Mining, Web Scraping, API Integration  
+- 🟨 **Cloud & Infrastructure** → AWS, Google Cloud, Virtualization Technologies  
+
+---
+
+# 🎯 OUR MISSION  
+
+<div align="center">
+  <p style="font-size: 30px; font-weight: bold; color: #2196F3;">OUR MISSION</p>  
+  <p style="font-size: 20px; color: #9E9E9E;">To lead, innovate, and dominate the cybersecurity landscape through our relentless pursuit of mastery and strength. We are not just participants in cybersecurity — we are shaping its future.</p>  
+</div>
+
+---
+
+# 🔗 CONNECT WITH BLACK SPAMMER BD  
+
+<p align="center">
+  <a href="https://facebook.com/groups/black.spammar.bd/">
+    <img src="https://img.shields.io/badge/FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://t.me/TEAM_BSB">
+    <img src="https://img.shields.io/badge/TELEGRAM-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+---
+
+# 💡 WANT TO JOIN US?  
+
+<div align="center">
+  <p style="font-size: 30px; font-weight: bold; color: #4CAF50;">JOIN THE MOVEMENT</p>  
+  <p style="font-size: 20px; color: #9E9E9E;">Contribute to our projects, collaborate with us, and help us build the future of cybersecurity.</p>
+  <p style="font-size: 20px; color: #9E9E9E;">Partner with us, suggest features, report issues, and submit pull requests to make an impact!</p>
+</div>
+
+---
+
+<h2 align="center" style="font-size: 40px; color: #F44336;">🔥 BLACK SPAMMER BD - POWER. DISCIPLINE. DOMINANCE. 💀💻</h2>
